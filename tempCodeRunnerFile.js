@@ -1,1 +1,0 @@
- let obj={name:'gaudam'}

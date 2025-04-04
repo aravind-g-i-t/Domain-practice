@@ -39,7 +39,8 @@ class LinkedList{
 
     deleteByValue(val){
         if(!this.head){
-            
+            return;
         }
+        
     }
 }
